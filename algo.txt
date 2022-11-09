@@ -1,0 +1,7 @@
+Step 1: Decide which business to order from
+Step 2: Decide which type of pizza to order
+Step 3: Call pizza place
+Step 4: Place your order
+Step 5: Wait for pizza
+Step 6: Pay for pizza at door
+Step 7: Eat pizza
