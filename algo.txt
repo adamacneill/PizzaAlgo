@@ -4,4 +4,7 @@ Step 3: Call pizza place
 Step 4: Place your order
 Step 5: Wait for pizza
 Step 6: Pay for pizza at door
-Step 7: Eat pizza
+Step 7: Check if anything is wrong with order
+Step 8: If there is something wrong, call the business
+Step 9: Get new pizza delivered
+Step 10: Eat the pizza
